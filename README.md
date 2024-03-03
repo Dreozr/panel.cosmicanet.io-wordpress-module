@@ -1,3 +1,3 @@
-# pterodactyl-wordpress
+# panel.cosmicanet.io-wordpress-module
 
-wordpress for pterodactyl panel v.01
+wordpress for panel.cosmicanet.io
